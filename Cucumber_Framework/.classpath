@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/300069257/Downloads/Test Projects/Cucumber Project/Cucumber/Framework/Jars/Cucumber/Proper/cobertura-2.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/300069257/Downloads/Test Projects/Cucumber Project/Cucumber/Framework/Jars/Cucumber/Proper/mockito-all-1.9.1-20110911.jar"/>
+	<classpathentry kind="lib" path="/Users/300069257/Downloads/Test Projects/Cucumber Project/Cucumber/Framework/Jars/Cucumber/Proper/cucumber-testng-1.2.5.jar"/>
+	<classpathentry kind="lib" path="/Users/300069257/Downloads/Test Projects/Cucumber Project/Cucumber/Framework/Jars/Cucumber/Proper/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="/Users/300069257/Downloads/Test Projects/Cucumber Project/Cucumber/Framework/Jars/Cucumber/Proper/cucumber-reporting-4.7.0.jar"/>
+	<classpathentry kind="lib" path="/Users/300069257/Downloads/Test Projects/Cucumber Project/Cucumber/Framework/Jars/Cucumber/Proper/cucumber-jvm-deps-1.0.5.jar"/>
+	<classpathentry kind="lib" path="/Users/300069257/Downloads/Test Projects/Cucumber Project/Cucumber/Framework/Jars/Cucumber/Proper/cucumber-junit-1.2.5.jar"/>
+	<classpathentry kind="lib" path="/Users/300069257/Downloads/Test Projects/Cucumber Project/Cucumber/Framework/Jars/Cucumber/Proper/cucumber-core-1.2.5.jar"/>
+	<classpathentry kind="lib" path="/Users/300069257/Downloads/Test Projects/Cucumber Project/Cucumber/Framework/Jars/Cucumber/Proper/cucumber-java-1.2.5.jar"/>
+	<classpathentry kind="lib" path="/Users/300069257/Downloads/Test Projects/Cucumber Project/Cucumber/Framework/Jars/Cucumber/Proper/cucumber-java8-1.2.5.jar"/>
+	<classpathentry kind="lib" path="/Users/300069257/Downloads/Test Projects/Cucumber Project/Cucumber/Framework/Jars/Selenium Jars/selenium-server-standalone-3.7.1.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
